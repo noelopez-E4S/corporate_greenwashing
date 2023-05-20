@@ -1,2 +1,2 @@
-# corporate_greenwashing
-Machine learning final project 
+# Final project in Machine Learning about corporate greenwashing
+
